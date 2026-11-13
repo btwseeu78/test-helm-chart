@@ -1,0 +1,4 @@
+rbac:
+  create: true
+image:
+  repository: "europe.socker.pkg.dev/velero"
